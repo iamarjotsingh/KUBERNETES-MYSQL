@@ -2,15 +2,15 @@
 
 Persistance Volume and Secrets implemented through Mysql Pod
 
-kubectl get pod
+**kubectl get pod**
 
 ![image](https://user-images.githubusercontent.com/60013210/235128713-775a2e13-3667-4ff4-be07-fe69eb5adeba.png)
 
-kubectl exec --stdin --tty mysql-694d95668d-w7lv5 -- /bin/bash
+**kubectl exec --stdin --tty mysql-694d95668d-w7lv5 -- /bin/bash**
 
 ![image](https://user-images.githubusercontent.com/60013210/235129349-da375179-efba-4ed4-9149-57f1b910a8e6.png)
 
-mysql -p
+**mysql -p**
 
 ![image](https://user-images.githubusercontent.com/60013210/235129690-d91a8434-97c5-4974-9ed1-dc68fd0c602b.png)
 
