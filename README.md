@@ -1,6 +1,6 @@
 # KUBERNETES-MYSQL
 
-Persistance Volume and Secrets implemented through Mysql Pod
+----------------------**Persistance Volume and Secrets implemented through Mysql Pod**----------------------
 
 **kubectl get pod**
 
